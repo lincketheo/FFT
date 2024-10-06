@@ -20,6 +20,7 @@ $ ./siggen 10.123f5p3a 50f10a 200f1.123a 900f0.1p -fs 1000 -k 0:1048576 > sig.bi
 
 ## DFT
 - Vanilla 
+Average Time: Aborted, at least 5 minutes
 
 ## FFT_1 
 - My first attempt, realized this was just fancy DFT, scrapped
