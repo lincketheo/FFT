@@ -1,0 +1,10 @@
+*.bin
+.venv
+fft_2
+fft_3
+fft_4
+fft_we
+fft_wm
+dft_1
+compile_commands.json
+siggen
