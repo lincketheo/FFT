@@ -1,5 +1,5 @@
 # FFT 
-My implementation of various fourier transforms in C 
+A little weekend implementation of various fourier transforms in C 
 
 # Compile
 ```
